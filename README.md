@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tabaarianna
-- 👀 I’m interested in all kinds of things, but mainly stem related work. Makes me feel a little extra alive than having a brain that just kinda sits and ponders the world without learning all the magnificent thing about the world ...
 - 🌱 I’m currently learning video game design!
 - 💞️ I’m looking to collaborate on anything tech related!
 - 📫 How to reach me tabaarianna@gmail.com ((-:
+- https://ariannatabatabei.squarespace.com/config/
 
 <!---
 tabaarianna/tabaarianna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
