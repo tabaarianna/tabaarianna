@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning video game design!
 - 💞️ I’m looking to collaborate on anything tech related!
 - 📫 How to reach me tabaarianna@gmail.com ((-:
-- https://ariannatabatabei.squarespace.com/config/
+- ariannatabatabaei.com
+- 
 
 <!---
 tabaarianna/tabaarianna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
